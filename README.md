@@ -24,7 +24,7 @@
 5. Create a pull request to allow others to review your code.
 
 ## Learn More About the Project
-[See more](https://docs.google.com/document/d/1yj8A51FAdvY-DzvR29qOWTK2cmKQb_pK/edit?usp=drive_link&ouid=117495462796375031004&rtpof=true&sd=true)
+[See more](https://drive.google.com/file/d/13fc1uzEuySzkLjPdJg3WBEXo4jO4H_8_/view?usp=drive_link)
 
 ## Run the Project Locally on Your PC
 1. Android Studio Prerequisite: Ensure you have Android Studio installed on your computer. It provides the necessary tools and environment for building Android apps.([download here](https://developer.android.com/studio))
